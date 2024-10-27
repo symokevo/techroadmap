@@ -35,7 +35,7 @@ const ContributeCTA = () => {
           <p>
             If you would like to contribute to this project, please visit our
             <Link href="/contribute" className="paragraphLinks">
-               contributors page
+              contributors page
             </Link>{" "}
             to find out how to contribute.
           </p>

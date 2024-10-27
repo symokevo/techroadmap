@@ -35,7 +35,8 @@ export default class MyDocument extends Document {
           <script
             defer
             data-domain="roadmaps.timonwa.com"
-            src="https://plausible.io/js/script.js"></script>
+            src="https://plausible.io/js/script.js"
+          ></script>
 
           {/* Global Site Tag (gtag.js) - Google Analytics */}
           <script
